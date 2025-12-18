@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0",
+  "project": {
+    "slug": "live-mode-agente-de-hunting-e-recrutamento-inteligente",
+    "title": "Live Mode - Agente de Hunting e Recrutamento Inteligente"
+  },
+  "author": {
+    "orgSlug": "vinicius-a97f",
+    "userId": "2e34c384-ea25-48cb-b134-633f6367bae9",
+    "userEmail": "tony.leonardo@frncubo.com"
+  },
+  "resources": {
+    "tools": [
+      "/tools/SearchGitHubDevelopers.json",
+      "/tools/SearchRedditDevelopers.json",
+      "/tools/SearchDevToDevelopers.json",
+      "/tools/SaveCandidatesToAirtable.json",
+      "/tools/MockCandidateSearch.json"
+    ],
+    "views": [
+      "/views/Intelligent-Recruiting-Hub.json",
+      "/views/Candidate-List-View.json"
+    ],
+    "workflows": [
+      "/workflows/IntelligentHuntingWorkflow.json"
+    ],
+    "documents": [
+      "/documents/IntelligentHuntingWorkflow---Documentation.json",
+      "/documents/Sistema-Completo---Intelligent-Recruiting-Hub.json",
+      "/documents/---Como-Testar-com-Candidatos-MOCK.json"
+    ],
+    "database": []
+  },
+  "dependencies": {
+    "mcps": []
+  },
+  "createdAt": "2025-12-18T01:20:53.733Z"
+}
