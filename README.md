@@ -5,6 +5,7 @@
 Workflow de hunting e recrutamento automatizado que analisa descrições de vagas, busca candidatos em plataformas públicas, calcula scores de compatibilidade, **persiste no Airtable** e retorna um ranking estruturado.
 
 **⚡ Atualização**: Agora com persistência automática no Airtable!
+
 Link do Airtable https://airtable.com/appjKXvQHcfipsGt1/tblTmumxyIREYdJNe/viwrJkdJHSWpLcugV?blocks=hide
 ---
 
